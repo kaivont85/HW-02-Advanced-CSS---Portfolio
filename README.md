@@ -13,4 +13,4 @@ https://github.com/kaivont85/HW-02-Advanced-CSS---Portfolio
 
 Screenshot of Deployed Website
 
-![my sample screenshot](assets\images\screenshot.png)
+![my sample screenshot](./assets/images/screenshot.png)  

@@ -9,7 +9,7 @@ body {
 }
 
 #wrapper {
-    max-width: 960px;
+    max-width: 1200px;
     margin: 0 auto;
     background-color: lightskyblue;
     padding: 32px;
@@ -90,8 +90,17 @@ ul.main_menu {
 .heading2, .heading4 {
     background-color: darkcyan;
 }
+.card {
+    padding: 25px;
+}
+
+.work-images {
+    width: 100px;
+    height: 100px;
+}
+
     #branches {
-    padding: 60px 0;
+    padding: 20px 0;
     background: #3498DB;
     text-align: center;
     color: #fff;

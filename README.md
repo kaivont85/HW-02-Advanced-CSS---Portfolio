@@ -1,4 +1,4 @@
-# HW-02-Advanced-CSS-Porfolio
+#Personal-Portolio
 
 I created a responsive personal Portfolio so that anyone can look me up and find links to my projects, my professional pages and as well as my social links. 
 
@@ -7,7 +7,7 @@ I used HTML and CSS to make this portfolio and added images and clickable links 
 
 Link to my github account: 
 
-https://github.com/kaivont85/HW-02-Advanced-CSS---Portfolio
+https://github.com/kaivont85/Personal-Portfolio
 
 
 
